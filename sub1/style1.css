@@ -1,0 +1,19 @@
+body 
+{
+  background-color: black;
+  color: white;
+  font-size: medium;
+  text-align: left;
+}
+
+h1
+{
+  font-weight: bold;
+  text-align: center;
+}
+
+h2
+{
+  color: black;
+  text-align: center;
+}
