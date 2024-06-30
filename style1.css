@@ -4,3 +4,10 @@ body
   color: white;
   font-size: medium;
 }
+
+h1
+{
+  font-weight: bold;
+  color: purple;
+  float: center;
+}
